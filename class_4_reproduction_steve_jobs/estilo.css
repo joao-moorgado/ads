@@ -1,0 +1,115 @@
+body{
+    font-family: 'Droid Sans';
+    border-top: 3px solid rgb(231, 231, 231);
+    border-bottom: 3px solid rgb(231, 231, 231);
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 80px;
+    line-height: 1.5;
+}
+
+h1{
+    font-family: 'Droid Sans Bold';
+    font-size: 38px;
+}
+
+.preto{
+    color: rgb(51, 51, 51);
+}
+
+.cinza{
+    color: rgb(128, 128, 128);
+}
+
+.bold_black{
+    font-family: 'Droid Sans Bold';
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+}
+
+#preco{
+    font-family: 'Droid Sans Bold';
+    font-weight: bold;
+    border: 2px solid rgb(34, 34, 34);
+    border-radius: 15px;
+    padding-left: 15px;
+    margin-right: 77%;
+    background-color: rgb(245, 245, 240);
+}
+
+.vermelho{
+    color: rgb(255, 0, 0);
+}
+
+p{
+    display: block;
+    font-size: 24px;
+    color: rgb(53, 51, 51);
+}
+
+
+#backgorund_grey{
+    font-size: 30px;
+    background-color: rgb(211, 211, 211);
+    padding: 35px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+th, td{
+    font-size: 24px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border: 2px solid rgb(223, 226, 229);
+}
+
+th{
+    text-align: center;
+}
+
+td{
+    padding-left: 20px;
+    border-top: 3px solid rgba(179, 177, 167, 0.295);
+    border-bottom: 3px solid rgba(179, 177, 167, 0.295);
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-top: 50px;
+    line-height: 1.5;
+}
+
+.preto{
+    color: #333333;
+}
+
+.cinza{
+    color: grey;
+}
+
+#preco{
+    font-weight: bold;
+    border: 2px solid #222222;
+    border-radius: 10px;
+    padding-left: 15px;
+    margin-right: 970px;
+}
+
+.vermelho{
+    color: red;
+}
+
+p{
+    font-size: 19px;
+    color: #333333;
+}
